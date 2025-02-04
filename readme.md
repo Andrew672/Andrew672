@@ -7,6 +7,5 @@ Je me nomme **Marbach Andrew**, originaire d'une petite ville située en plein c
 
 #### Mes statistiques 📊
 
-[![Mes statistiques](https://github-readme-stats-cnt4nv440-test-975064b8.vercel.app?username=andrew672&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-xi-orpin.vercel.app?user=andrew672&theme=dark)](https://git.io/streak-stats)
 [![Mes Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew672&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
