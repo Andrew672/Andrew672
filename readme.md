@@ -10,7 +10,7 @@ Curieux et toujours en quête d’amélioration, je porte un intérêt particuli
 
 ### 🏗️ **Architecture & DevOps**
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-31BEBE?style=for-the-badge&logo=githubactions&logoColor=white) ![Architecture Hexagonale](https://img.shields.io/badge/Architecture%20Hexagonale-%2300599C.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-31BEBE?style=for-the-badge&logo=githubactions&logoColor=white) ![Architecture Hexagonale](https://img.shields.io/badge/Architecture%20Hexagonale-%2300599C.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)](#)
 
 ### 💻 Langages
 
@@ -29,5 +29,6 @@ Curieux et toujours en quête d’amélioration, je porte un intérêt particuli
 ## 🌍 Me retrouver ailleurs :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-marbach)
+
 
 
