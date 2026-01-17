@@ -1,12 +1,10 @@
 # Bienvenue à toi 👋 !
-
+  
 ## À propos de moi 📌
-
-Je me nomme  **Marbach Andrew** , originaire d'une petite ville en plein cœur de l'Alsace.
-
-Actuellement **étudiant de 21 ans en première année de Master Informatique** en **alternance** à Metz, je suis passionné par le développement logiciel et l'architecture des systèmes.
-
-Toujours curieux et en quête de perfectionnement, je m'intéresse particulièrement aux  **bonnes pratiques de développement** , à l'**architecture logicielle** et aux  **méthodologies DevOps** .
+    
+Étudiant de 22 ans en deuxième année de Master Informatique (spécialité GI) en alternance à Metz. Je m’intéresse particulièrement au développement logiciel et à l’architecture des systèmes.  
+  
+Curieux et toujours en quête d’amélioration, je porte un intérêt particulier aux bonnes pratiques de développement, à l’architecture logicielle et aux méthodologies DevOps.
 
 ## 🚀 Stack Technique
 
@@ -31,3 +29,4 @@ Toujours curieux et en quête de perfectionnement, je m'intéresse particulière
 ## 🌍 Me retrouver ailleurs :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-marbach)
+
