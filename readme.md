@@ -26,9 +26,26 @@ Curieux et toujours en quête d’amélioration, je porte un intérêt particuli
 
 ### 🗄️ Bases de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew672&layout=compact&hide_border=true&bg_color=0d1117&title_color=78a9ff&text_color=f2f4f8&icon_color=78a9ff" 
+    alt="Top Languages" 
+    style="height: 200px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andrew672&show_icons=true&hide_border=true&bg_color=0d1117&title_color=78a9ff&text_color=f2f4f8&icon_color=78a9ff" 
+    alt="GitHub Stats" 
+    style="height: 200px;" 
+  />
+</div>
+
 ## 🌍 Me retrouver ailleurs :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-marbach)
+
 
 
 
